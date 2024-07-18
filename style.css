@@ -2,16 +2,16 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #270000;
 }
 
 h1 {
-    color: #333;
+    color: #c40000;
     text-align: center;
     margin-top: 20px;
 }
 
 p {
-    color: #666;
+    color: #ff3d3d;
     text-align: center;
 }
