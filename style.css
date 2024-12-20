@@ -44,3 +44,36 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav a {
+    color: #00bfff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.project-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project-list li {
+    margin: 10px 0;
+}
+
+.project-list a {
+    color: #c40000;
+    text-decoration: none;
+}
+
+.project-list a:hover {
+    text-decoration: underline;
+}
